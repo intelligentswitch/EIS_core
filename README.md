@@ -5,13 +5,13 @@ or just cost a fortune. So, I've decided to design Intelligent Switch packed up 
 fortune and is fully open source for anyone.
 
 What can I do with Intelligent Switch?
-- Gesture control, light, garage doors, house alarm, multi zone thermostat, virtually anything.
+- Gesture control, light, garage doors, house alarm, multi zone thermostat, virtually anything, you name it! 
 - OLED display for user feedback
 - Temperature and humidity readings per switch
 - Microwave presence detector, doppler radar (aka PIR) 
 - Ambient light measurement
 
-All programming will be done in Arduino IDE. With MQTT to open integration with OpenHAB, HomeAssistant and Domoticz.
+All programming will be done in Arduino IDE. With MQTT funcitionality for easy integration with OpenHAB, HomeAssistant and Domoticz.
 
 Software:
 - OTA (TODO)
