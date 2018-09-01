@@ -35,3 +35,7 @@ Hardware list:
 
 Consideration:
 Funding for prototyping, CE conformity, testing and manufacturing.
+
+
+Libs used:
+Driver for OLED displays with SSD1306 or SH1106 - https://github.com/durydevelop/arduino-lib-oled
