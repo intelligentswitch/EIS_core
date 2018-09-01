@@ -39,3 +39,4 @@ Funding for prototyping, CE conformity, testing and manufacturing.
 
 Libs used:
 Driver for OLED displays with SSD1306 or SH1106 - https://github.com/durydevelop/arduino-lib-oled
+Adafruit HTU21DF Library - https://github.com/adafruit/Adafruit_HTU21DF_Library
